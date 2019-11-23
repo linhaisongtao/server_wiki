@@ -12,3 +12,10 @@
   
 
 ### 2. docker上配置tars
+
+####2.1 下载镜像
+docker pull mysql:5.6
+
+docker pull  tarscloud/tars:dev
+
+docker pull tarscloud/tars-node:dev
