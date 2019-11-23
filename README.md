@@ -4,9 +4,11 @@
 
 ### 1. docker安装
 
-  mac
+  mac版
+  
 方法1. brew cask install docker
-方法2. 从docker官网下载 ![docker稳定版](https://download.docker.com/mac/stable/Docker.dmg)
+
+方法2. 从docker官网下载 [docker稳定版](https://download.docker.com/mac/stable/Docker.dmg)
   
 
 ### 2. docker上配置tars
